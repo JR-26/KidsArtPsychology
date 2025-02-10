@@ -1,0 +1,4667 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child drawing with a child in the middle holding hands with a woman on the left, a red lightning bolt separating them from a sad man on the right.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_s13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A drawing with a man in traditional attire lifting a boy, while a girl with a colorful balloon stands nearby in a vibrant landscape of trees and mountains.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/h83.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A teacher in a red saree is holding a green book while standing in front of a blackboard, with three students wearing green and yellow uniforms facing her.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/h89.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts multiple elements, there are three women sitting by the road side and are selling vegetables, there is a man buying vegetables from the woman in red saree, the women are sitting under an umbrella. In the background there are trees, house and there is a car crossing the road. It looks like a depiction of a rural area or village.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/h90.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A beach scene with children. Two kids are building sandcastles, three kids are flying kites, and there's a boat on the water.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/h91.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A man in a red shirt holding balloons stands with a woman in a pink saree, a girl in an orange top, and a boy in a black shirt. Two children in the background play with balloons. There are houses and trees indicating a village setting.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/h93.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a outdoor scene with three children playing in a park. Two trees are prominently featured in the foreground, with one child sitting on a swing tied to one of the trees. Another child is pushing the swing, while the third child is standing nearby, holding a branch of the other tree. In the background, there is a church with a steeple and a small house. The drawing also includes a pond, flowers, and lush green grass, creating a vibrant and lively atmosphere.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/h94.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This drawing has  a rainbow, smiling sun, apple tree, white car, four people holding hands (two adults, two kids), a house, hearts, flowers, and butterflies.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "child painting depicting a  scene of four people outdoors. The background features a bright sun, blue sky with clouds, and a landscape with green hills and flowers. The four people appear to be a family enjoying a day out. One person, wearing a yellow shirt and blue pants, is holding a child on their shoulders. Another person, in a red dress, is holding a bunch of red balloons. A third person, in a red shirt and purple pants, is standing next to them. The child on the shoulders is wearing a pink hat and appears to be holding a kite. The image is  capturing a moment of family fun and togetherness.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A colorful drawing of a family of four holding hands on green grass, with a sun, a house, and blue waves in the background. Simple and sweet.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Seven people standing on a green field with blue clouds in the sky and a sun in the top right corner, drawn with simple shapes and bright colors.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three cartoon characters standing side by side: two adults holding a child's hand, all smiling with rosy cheeks. The adult on the left has spiky hair and is wearing blue, while the adult on the right has long hair and is wearing a red dress.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Four stick-figure people (two adults, two kids) holding hands on green grass, yellow sun, blue clouds, tree with a dog near it, red flowers.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h18.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three children in a grassy field with hills, blue sky with clouds, sun shining. One holds a basket, one holds a stick with a ribbon, and one stands by a basket of eggs. Flowers and birds in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h19.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows three children on a beach, smiling, with one holding a green shovel, one with a colorful beach ball, and various beach items around, like a sandcastle bucket and lifebuoy, under a bright sun and blue sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h20.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child drawing of four people (two adults, two kids) standing in front of a house with a red roof and a chimney. Two trees with red fruits, a blue car, a bright yellow sun, and some clouds in the sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h22.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A family of four (two adults, two kids) standing on a grassy field with flowers, blue sky, clouds, and a smiling sun in the corner.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h24.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two adults (one with balloons, one in a red dress) and two kids on a green hill, shining sun, and flowers.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h26.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "child drawing of four people: two adults (one with glasses in a green shirt, one blurred out) and two children (one in a pink shirt, one in blue). The background seems to represent an outdoor scene.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h27.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows a family of three stick-figure people: an adult in a blue dress, a child in an orange dress, and an adult in a white shirt and brown pants, holding hands, smiling in front of a house with a brown roof and chimney, a tree, a sun, and a blue sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h28.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows five human figures: one blonde with a pink dress, one blue-haired with a blue dress, one red-haired with a crown, one brown-haired with a blue shirt, and one black-haired with a black dress. Additionally, there's a large green tree, a yellow sun, a blue cloud, a yellow bird, a yellow cat with green stripes, and a bee.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h35.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's colorful drawing: a sun with a smiling face, clouds, a green kite, two birds, two flowers, two children (one with red hair in a dress, one with blue hair in shorts), and a purple house with a chimney.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h36.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A large tree, a sun, two stick figures (one in an orange dress, one in a blue outfit), a green house with a brown roof, clouds, grass, and flowers.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h37.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A family of four standing outside with a house to the right, sun and clouds in the sky, flower near the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h38.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Family of four standing on grass, holding hands, bright sun in the sky, one holding a red balloon.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A children drawing with a rainbow, smiling sun, birds, four kids holding hands, trees, and butterflies.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A group of people outdoors with a bright sun, wooden fence, green foliage, fire pit, and a cat with a red ball. One person kneels with hands clasped, another holds a stick.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h42.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A children drawing of a family: two adults (one in a brown top, one in a pink headscarf) and two kids (one in a red top, one in a blue top) standing on green grass, with a flower, butterfly, and sun.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h43.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A children drawing of a family of four standing outdoors. Two adults, two kids, surrounded by flowers and butterflies under a sunny sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_h45.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A children drawing describes a room in disarray, with three adults and two children. One adult in a confrontational stance holding a stick, and the others reacting, trying to intervene or escape. Window with bars and calendar in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_f3.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two stick figures standing, one holding the other's neck, two figures under a table, two windows and a door in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_f16.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three human-like figures: one yellow, one brown with a green face, one blue with black details. Simple lines and shapes.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_f27.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three vividly colored figures: one in black and red, another in red and brown, and the third in orange and red. All have smiling faces and outstretched arms, drawn with simple lines, set against a plain white background. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/new_f35.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of four people with distinct features: one with spiky hair in a green shirt, another in a purple dress with red legs, a small figure in a green shirt and blue pants, and a figure with long black hair in a yellow shirt with a star and skirt. Various  scribbles and playful lines surround them.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/New_f47.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The child  drawing of two people, one adult in blue pants and a white shirt, and one child in blue pajamas with white stars holding a teddy bear, walking hand-in-hand towards a dark, shadowy area filled with Halloween-themed elements like a ghost, a jack-o'-lantern, a snake, and a creature with yellow eyes and sharp teeth. A lamp on a small table stands next to the adult.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f35.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Four human-like figures with round heads and expressive faces, clothed in green, blue, pink, and orange. Jagged lines above, possibly representing mountains or a stormy sky, with a gray background suggesting a dark or stormy environment.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f50.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "child's drawing depicting a family of four stick figures standing on a grassy surface. The figures are drawn with simple black lines, and the scene includes a large green tree on the right side, while brown scribbles fill parts of the background, possibly representing sky or foliage. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f52.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This image appears to be a child's drawing done in crayon. It depicts two adults, one male in blue and one female in pink, holding cigarettes with smoke rising above them. Next to them is a sad child in green, standing apart with a frowning face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f56.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It depicts a family separated by a jagged black line. On one side, there a sad-looking man in green, while on the other, a smiling woman in pink is holding a child's hand. The sun is shining but appears to have a frown, ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f59.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "child's drawing  illustrates  such that  on the left, a lone child stands crying, with large teardrops falling down his face. In contrast, on the right, three figurestwo adults and another child are smiling,. The adults have their hands on the child in the middle,. The bright sun and colorful surroundings, including a cheerful flower, ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f65.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "shows four figures hanging by nooses around their necks. The figures, varying in size. The lack of color and rough, hand-drawn nature.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f74.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This image shows a group of four children . The children have large, dark, hollow eyes and expressionless faces.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f75.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows a group of figures, including a family holding hands in the center. On both sides, there are large dark figures, one with horns. Some figures are colored in black, while one figure is in red. The background is rough, with brown and red shading.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f76.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows a house with a large black \"X\" crossing over it. Next to the house, two figures are drawn: one in blue with a sad face and another in green, also with a sad face. There is a gray cloud above the figures, and colored crayons are visible around the edges of the drawing.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f79.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a child painting of a family of four standing on a path, surrounded by flowers and greenery. The family includes two adults (one with long red hair in a green dress, and another with black hair in a blue shirt) and two children (a girl in a red dress with a pink bow, and a boy in a yellow shirt).",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Family/f12.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a portrait of a girl, she is wearing a green dress, she has fair skin tone, emotions are neutral",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a portrait of a boy, he is wearing a pink dress, he has fair skin tone, he has big eyes and nose",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a girl wearing specs, she is wearing a red dress, she is excited, she has a gift in front of her",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing contains a girl, she is  very angry, hot fumes above her head, she is holding a object, the object has fumes coming from it",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a girl, she wears a medal, her hair is undone, she wears a frock",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a24.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are 2 suns in this drawing, there is a girl, her hair is flat like a line, there is a animal like a dog in her stomach",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a27.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a cat, the car looks scared, it is screaming, it looks like it is falling",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a29.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a cartoon character,he looks very angry, he wears a crown looks like horns, his legs are huge, his feet is made of metal, he wears a red cape, the crown is red, he wears a suit and tie.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a38.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl with red hair and red skirt and red heels and brown tops. She is keeping her hands in her hips. She has a neutrasl expression on her face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing has a boy in a white dhothi,he can be a fictional figure, he is standing on clouds, he throws lightning bolts from his hands, he looks excited",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a54.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a boy, he is wearing a full sleeve tshirt and a pant, he looks grumpy and irritated.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a55.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a comic character, it holds a wand in his right hand, he carries a sword in his back, the backdrop is a mountain area, it wears a blue dress, black gloves and shoes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a58.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a drawing of a boy, he looks very angry, he has long hands, he is short, he wears a full sleeve and pants",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a60.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a drawing of a boy. he has blue eyes and he wears a large red full sleeve t shirt. he looks very happy and joyful, he is opening his arms",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a65.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a drawing of a angry boy, he is only wearing a shorts.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a66.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a drawing of a girl, she wears a blue and green top, she holds a mic in her hand, she looks very angry and irritated, under the drawing there is a text \"Doris 10 Female\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a67.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a violent drawing, it contains a girl cutting a boy's throat using a knife, while the boy cries, The girl has written \"this is going to hapin to you\" around the drawing",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a68.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This child\u2019s drawing shows a figure of a girl with a large, round face, wearing a long red dress and a blue scarf. She has two braids with her hands on her hips. The background includes purple lines and a blue bag like object.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a70.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a girl, she is wearing a green dress and a necklace, she looks very mad and has a long nose, it is drawn in a red background",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a75.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This child\u2019s drawing features a large, round face with an exaggerated expression of anger or frustration. The face has wide, arched eyebrows,he has no hair, a large open mouth outlined in red, looks like he is shouting in anger, the figure wears a blue shirt. The shirt has star in it and there are objects flying above his head.\n",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a77.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The child's drawing contains a boy who is shouting in anger and frustration, he has closed eyes and mouth wide open, he wears a yellow t shirt, the background is blue and black",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a83.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing contains a boy in a brown and black backdrop, he looks very angry and is screaming.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a84.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is  boy with a pointed nose in the image. He has flared nose and a peculiar hairstyle. He seems to be angry about something by his face reaction and his body posture.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a91,jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl in the image with blue dress.She appears to be stuck in a desert. Sh ehas red hands. One hand she appears to be holding a flare of somekind. There seems to be some kind of rod stuck on her back. There are a few dead fishes lying on the ground.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a94.webp"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is human like figure in the iumage wearing ablue top and is wearing a white coloured head gear of somekind. He appears to be sad and angry and concerned about something by his face reaction.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a95.webp"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a vibrant portrait of a a woman or girl. The subject has large, round eyes, a wide smile, and dark hair in a short bob. The person is wearing a colorful yellow top made from various pieces of paper or fabric.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a96.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing features three human-like figures. The central figure is tall and brown with a sad face. To the left is a smaller, yellow figure. To the right is another tall figure standing on a stool. The background is blank.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/a113.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a girl in green background with blonde hair and round eyes that resemble daisies. The girl has a sad expression with a downturned mouth. There are red circles on her cheeks, and she is wearing a blue shirt with the words \"I Brook\" and a broken heart symbol. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows a face with large, blue eyes, a open mouth with teeth, and a furrowed brow, suggesting an angry or surprised expression. The face is primarily brown with red cheeks, the body is not visible",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing is a person standing in front of a large sun. The sun has a smiling face. The person has long hair and is surrounded by yellow rays. At the bottom of the drawing is a red, swirling shape that might represent a snake or a worm. The title of the drawing is \"Cavy is big\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a chaotic drawing containing many elements, there is a telephone wire throughout the drawing, there is a business man in a suit and tie wearing glasses, there is a boy cycling, there is a man in the right, there is man playing trumpet on the top left, there is a man on the top right wearing glasses and a top hat",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a girl with blonde hair, she wears a blue top, yellow and red pants, she has big eyes and is smiling, her arms are wide open",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing contains a figure which may or may not be a girl, the hair is not drawn properly, it is scribbled around the head, it is a tall figure with short left and long right hand",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It is a complex drawing, it looks like a man but the eye lashes, red lipstick and red eyes suggests it might be a female but the hair and attire seems like a man, there is two hands holding the figures face, the face contains a mixture of blue yellow and green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "It contains a boy wearing a blue t shirt and brown hair he looks sad, he is with a girl who has blonde hair and blue eyes, she looks angry, she wears a pink top, there is broken hearts all over the drawing, one arrow from a broken heart is pointing towards the boy",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f11.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a girl who is wearing a tall pink frock, with pink hair and she looks happy smiling, there is a butterfly and flower near her It looks like a fantasical scene",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of two persons, there is a boy on the left side crying and a cloud shaped structure shooting something towards the boy, there is a girl with curly hair on the right looking surprised with mouth wide open",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f13.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing has a cartoon like figure who has large round eyes and spiky hair, his eyes and mouth are wide open, he looks scared, his hands and legs are squiggly ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This drawing shows a man wearing a glass and a goatee beard, he looks like a chemist, he is wearing a lab coat, there are beakers and flask and magnifying glass in the table, there is a board behind with some chemical formulas",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f14.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing has a kid wearing a green full sleeve t shirt, he looks sad, he has curly hair, he is crying, there are lots of mobile devices ringing around him",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f15.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a kid wearing a green t shirt and a blue shorts, he is crying as he is running towards a building",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f16.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a dark figure with no legs, it seems to be screaming with full of red liquid from its mouth, the hands are weird, it has round palm and slim fingers",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing features a simple figure of a girl with long, flowing hair. The figure has a round head with two small eyes and a straight mouth. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f22.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing contains multiple figures, A face with big smile and open mouth, a face with surprised expression, a humanoid figure with long arms and legs,a bear like creature with sharp teeth, a bird, a dog, all of the faces are scarmbled with many eyes and has surprised expressions",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f25.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a boy wearing a green full sleeve and a yellow pant with red stars on it,the emotions are neutral.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f28.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are 3 parts to this drawing, First part contains people in a jail like building, they look very sad, the second part depicts them escaping in a boat in a sea while it is raining, The third part shows them in a city near a building. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f29.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a girl with irregular triangular shaped face, she has very thin braids, eyes and eyebrows are red, her mouth is wide open, she is either excited or screaming",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f31.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing is named by the kid as \"My Mom Book\", the drawing of her mom she has golden hair, blue eyes, red lips, she is wearing a green top",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f33.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a kid crying on the floor with his toys scattered arount as a shadowy ghost figure scares him, the shadow is casted on the wall ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f34.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a person who has a large, round head with wide eyes, a wide-open mouth revealing a set of teeth, and a long, thin neck and long thin hair",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f35.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a child standing in a doorway, emerging from a dark background. The child has a round head, large eyes, and a small mouth the childs arms are stretched, The background is filled with dark, jagged lines.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f36.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a girl in bed, she is under the blanket with her head out, she is scared and afraid, under the bed is a dark creature peeking out with long tentacles with spiky hair and red eyes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f41.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows a girl laying on the floor crying while her bed is empty and another person looking scared and sad standing near the door way inside the room.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f44.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The child's drawing has a militairy man in uniform pointing a gun at a woman outside her house, she is crying, while a kid is laying dead on the floor, there are missiles being dropped in the house, there is a aircraft flying above",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f46.webp"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a scene with two person like figures and red spiders, the gray figure walks away from the scene while another figure holds its hand out and calls for him",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f48.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing portrays a joyful female figure with large, round head,a wide smile and floing hair,Her arms are outstretched,  she is standing on a circular object",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f51.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a rainbow in the sky, there is a dried tree with no leaves, there are two persons, right one is a boy who looks scared and afraid, other is a girl who seems emotionless",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f54.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing is a backdrop of a park with people sitting on a bench far away in the right, but the person at the center of drawing looks cynical and is laughing, there are black lines squiggly lines all over the drawing and around the center person",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f55.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing has two boys both wearing blue shirt and green pant, the left boy looks thin and is happy, the right book is fat and he is sad",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f58.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This drawing has children playing in a green field they are all holding hands, there is a girl in black top at the right, the girl in purple frock to left, next a boy in bue tshirt and jean, next a tall girl in red frock, there is a butterfly in the middle, sun is shining , and thunderbolts are emerging from the cloud",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f60.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This drawing has two scenes spearated by a line, the left one has a girl wearing a black dress, she looks upset and sad, above her head there is a red background of mountains or volcanoes, the right side has a white background with sun in the sky, trees and grass with a boy and a girl holding hands lookng happy, the boy has a balloon in his hand ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f61.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing has a boy sleeping in his bed, he is under his blanker, he looks scared, there are stars and moons in the background, there is a green alligator like creature under the bed, it looks scary",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f62.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a podium where a boy in orange t shirt is standing on first place, the boy in red t shirt is standing on second place, the boy in purple t shirt is standing on third place, they all hold trophies. There is a boy near the podium wearing blue t shirt and pants crying, he looks sad, there is a sun in the background",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f64.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a distressed and scared anthropomorphic cat figure. The cat like girl has a large head including large eyes and a downturned mouth. It appears to be crying, with tears streaming down its face. The figure is clutching a small object, possibly a toy or a comfort item",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f66.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a scene titled \"At Night. IT has a shadowy dark figure with black outfit, and scribbled face, it has long pointy fingers, it has a tail. It stands outside of a house and there is a kid looking at it through the window",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f67.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts two figures, likely representing a child and an adult. The child figure is simple, with a round head, large eyes, and a wide smile. The adult figure has a flat like nose, mouth is wide open, it has around ten lines which might be it's hands coming out of the torso.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f68.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a simple scene with three figures, possibly representing a parent and 2 children. The larger figure, likely the parent, is holding a smaller figure on their back. Both figures have simple, rounded shapes, the parent is being lead by another smaller figure on the ground, they are holding hands.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f69.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a dining scene with three figures. One woman is sitting at a table with a plate of food, seemingly enjoying their meal. Another woman is seated at the table, looking annoyed or frustrated, they both have blonde hair. The third figure, a child with red hair, seems like it is sitting on the ground or moving away, he looks sad.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f70.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a scene with multiple figures, including \"Daddy,\" \"Mommy,\" \"Travis,\" and \"Mr. Bones.\" Each figure is marked with \"X\"s,in their eyes suggesting death or injury, their head, torso and legs are separated. there is a doorway through which two people are walking in.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f71.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing has a brown woman like figure with her back inverted all the way and head upside down,she seems to be moving on both it's hands and legs, in the right there is a kid runing away from the figure.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f72.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a scene with multiple stick figures hanging from a tree in line, labeled as \"Jenny,\" \"Brian,\" \"Mom,\" and \"Dad.\" A single figure stands apart, labeled as \"Me\".",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f73.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a young girl with blonde hair, and light blue top. She has covered her face partially using her hand, and her mouth is wide open, she seems stressed and anxious, her legs are crossed inwards, there are boos scattered around her and she is holding one in her hands.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f77.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a scene where figure with a lightning bolt appears to be causing a storm, with dark clouds and rain pouring down. Below, a smaller figure sits in fear as the tall figure aims a lightining bolt towards it.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f78.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing contains a figure with three fingers and three toes, it seems angry and grumpy, it has crooked teeth, it has short hair",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f79.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A whimsical figure with a playful pose. Bold colors and expressive features create a cheerful scene.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f82.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A simple figure with a unique hairstyle. A world of imagination, captured in a single stroke",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f83.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The wide, startled eyes and open mouth convey a sense of shock or surprise. The simple lines and bold colors create a striking image. The textured background adds a layer of depth and emotion.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f85.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A chalk drawing of a family of three on a blackboard. The figures are simple line drawings, with the father figure partially erased, suggesting a sense of absence or loss.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f86.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a face with expressive eyes and a detailed mouth.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f87.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A charcoal drawing of two figures. One figure is hunched over, with their face obscured. The other figure stands nearby, seemingly observing the seated figure.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f88.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A pencil drawing of a woman's face partially submerged in water. Her hair flows in the water, and her eyes have a haunting expression. The artist's signature, \"Hiba Art,\" is visible in the bottom right corner.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f89.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a crying boy with two syringes. A box of crayons is placed above and below the drawing.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f90.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A figure with a distressed expression, surrounded by swirling lines and the words \"If God is not real, what...\" and \"not real.\" A broken heart is depicted in the center.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f91.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows the figure of a woman whose eye are not complete. It is haunted with the woman crying. The woman does not have pupil in her eyes. She looks scared.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f93.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A painting of a woman's face with a somber expression. Her eyes are downcast, and her face is partially obscured by shadows. The background is a dark, textured surface.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f94.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A sketch of a face with exaggerated features, including large eyes and a wide mouth. Tears, depicted as red lines, stream down the face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f95.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A colorful drawing of a person with a large head and exaggerated features. The figure is wearing a dress with a floral pattern and is holding a book. There are additional books drawn on the page.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f102.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A painting depicting a young girl running away from a large, dark figure. The figure appears to be a distorted human form, possibly a monster. The scene is set in a forest, with a bright yellow background contrasting with the dark figure.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f103.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A black and white drawing of a distorted female figure with a terrified expression. A small, childlike figure is visible in the distance, walking away. A spider-like creature emerges from the woman's shadow.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f105.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A black and white drawing of a figure trapped within a circular frame, with intricate lines radiating outwards. The figure appears distressed, with their hands raised and eyes closed. A key is visible near their head.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f106.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A close-up painting of a child's face with a distressed expression. The child's eyes are wide open, and tears are streaming down their cheeks. The reflection in their eyes reveals chaotic scenes, possibly representing internal turmoil or external stressors.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f107.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A drawing showing a little boy wearing a miltary suit and helmet.  He has a doll in one hand and a gun on the other hand. The colour of the sky is mixed with pink and blue.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f109.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A painting of a figure with a prominent nose, wearing a yellow shirt and red overalls. The figure's expression is somber, and the background is dark and textured.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f110.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A painting depicting a person standing on a boat, surrounded by three large sharks. The person appears to be screaming in fear, with their hands raised. The sky is orange, and the water is blue.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f116.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing that depicts a child and her mother. There is a lamp on the table. The child and the mother are laughing. There are different monsters or ghosts in front of them. The child holds a teddy bear and wears a night dress.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f118.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The painting depicts a chaotic scene with multiple elements. There is a large, dark figure with a cross-like symbol on its head. A smaller figure, possibly a child, is lying on the ground, covered in a green cloth. There are various other shapes and colors scattered around the canvas. The overall impression is one of confusion and distress.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/f120.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a mother and daughter standing on the sidewalk next to a red car. There is a traffic light and a green tree in the background. The sky is blue with white clouds and a yellow sun.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h11.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows six children who are playing outside. There is a bright yellow sun that is smiling at them. They are wearing different colored dresses.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h17.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a family with a father, a mother and two girl children. The sceneray is beautiful with flowers, green grass , sunshine, rainbow, clouds and butterflies around.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h19.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a color pencil sketch of a family. The family is smiling and there is a mother a father and a child,. The father holds umbrella for the family and the girl holds balloons. The scenary is colourful.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h21.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a painting of a park. Children are playing skipping, badminton skateboard and other games.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h22.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a family of three enjoying a day at the beach. The sun is shining brightly, and there are clouds in the sky. The family members are smiling and having fun in the water.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h24.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing shows three children playing in a field under a blue sky with two smiling clouds. They are smiling and enjoying their time together.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h25.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a young child playing with a toy car. The child appears to be having fun and is engrossed in their play.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h26.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a family standing in the rain with two umbrellas. A mother a father and two chilren are there. Rain clouds are at the top. They are all smiling and they are holding each other's hands.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h30.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a family, the dad, the mom and the girl child is standing outside the house holding hands and they are all smiling. The child is holding a balloon. There is sun and trees in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h32.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts two girls. One girl has pink hair and the other has blue hair. The blue haired girl has a crown on her head. The blued haired girl smiles more than the red haired one.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h41.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image has a mother and two children. They seem to be smiling and there is a bright sun and clouds.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h42.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is an image of a family. It has a father a mother and four children. They are smiling and the scenary is good having balloons, bright sun and clouds. They are holding hands together and they are standing on a grassland with flowers on it. The sun is shining brightly in the sky with blue clouds.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h45.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is an image depicting a family. It has a father a mother and a child. The child is holding a red balloon. The sun is shining brightly in the sky with a cloud. there is a house in the background with a bush nearby. There is a tree at the other end with a bush at the bottom of the tree.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h49.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a child's drawing of a happy family day out. The drawing includes a mother and child holding hands, a dog, a sun, clouds, birds, a rainbow, and the word \"MAMA\" written in the sky. The sun is shining brightl in the sky with a cloud. birds are flying here and there with a rainbow in the background. There are some tree like figures in the image too. The dog is near the kid.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h60.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a simple drawing of a family. There is one chiild, a parent, and a pet. The drawing is done in colorful crayons. Both the parent and the kid appears to be smiling. There are some red coloured stars in the backgroud. The family is in stick figure representation.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h64.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a family of three with a mother father and a girl. The mother has blonde hair, the girl has pink hair and the father has brown hair. They all appear to be smiling and happy and are standing in a ground filled with flowers all over. The sun is shining brightly in the sky with a cloud.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h70.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This image shows a family. It has a father, a mother and three children. They are holding their hands and standing on green grass. There is a bright sun and clear blue sky with three crows. The grassland has many flowers all over it. The family seems happy and they are smiling. The sun i sshining brightly in the sky with some clouds and some birds in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h76.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a colorful and vibrant drawing of a happy family. The family is standing in front of their house, which has a bright yellow color and a smiling sun on the roof. There are trees, flowers, butterflies, and a kite in the sky. The words \"We are a happy family!\" are written at the bottom of the drawing. There are butterflies flying everywhere in the image. There are some flowers in the image too. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h77.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a colorful and cheerful mural depicting three children laughing and playing together. The mural is painted on a wall, possibly in a public space like a park or school. The children are drawn in a simple, cartoon-like style. They are all smiling and laughing and chasing one another. There are some hearts flying too. They are running on the grassland.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h78.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a painting of a mermaid in under the water. She is smiling and has a colourful dress and a tail. Fishes are swimming beside her. She has a tiara on the crown. Her eyes are closed and has a peaceful expression on her face. There are some water bubbles besides her.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h79.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a mother and a son. The mother is giving something to her son. There is a yellow house and a green tree in beside them.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h81.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This drawing depicts a group of people planting a tree. A woman is watering the sapling, while a boy and a girl are helping with the planting process. The sun shines brightly in the background, and there are other trees in the distance. This image promotes environmental awareness and the importance of planting trees.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h84.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing of a school. There is a teacher and 3 students. The students are wearing uniform. The teacher is instructinig them to clean. The teacher has a broom with him. The children are cleaning by his instructions.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h85.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is an image of group of girls playing. The girls are playing in pairs. They are smiling and enjoy when playing. They are near a beach.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h86.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing that depicts a family. It has a father a mother and a small child. The mother holds the baby in her lap. The father has a doll or some item.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h87.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This heartwarming drawing depicts a mother tenderly kissing her young child, who is lifted in her arms. The child is smiling happily, and the mother's expression is one of love and affection. Several pink hearts are scattered around the image, symbolizing love and joy. The drawing is beautifully colored and captures the essence of a loving mother-child bond.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h88.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This is a drawing where a boy and girl are playing.The girl is swinging in a swing and the boy is swinging the swing/ There is a pink house. The swing is tied to a tree.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h92.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a drawing of a person. The person is wearing a hat and has a beard. They are holding a stick in their hand.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h95.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows two kids playing in rain. There is a boy and a girl in the image, They are palying happily in rain. There are flowers and tree in the image.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h96.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a village where two boys are walking besides a river on a bridge. There are trees and houses in the image. The two boys are in uniform and are wearing bags and they are on their way to school.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h97.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This image has two girls. They are holding cats in their hands. A road can be seen. It has a kid playing in a cycle att the top corner",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h98.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This colorful drawing depicts two women walking through a rural landscape. Each woman is carrying a pot on her head. They are wearing traditional Indian clothing and walking through a field with trees in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/h100.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A person with yellow hair lying in bed holding a bucket, greenish liquid on the floor, a bird and a cat also vomiting greenish liquid, and a sad cloud raining above.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three stick figures standing in a row: one on the left with lines radiating from its head, one smaller and neutral in the middle, and one with a bow on its head to the right. Background has vertical lines, likely representing a wall or pattern",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f4.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a drawing depicting four figures with round heads and stick-like limbs. Each figure has lines extending from their heads, resembling strings or ropes. The figures are dressed differently; one is wearing a dress and another is in pants",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f6.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows two hand-drawn figures. On the left, there\u2019s a person inside a rectangular shape with a grid-like pattern, possibly a cage. The face of this figure is covered by a gray square. On the right, there\u2019s a woman with blonde hair in a purple top and green skirt, holding hands with a child who has brown hair, wearing a purple top and blue pants. The child has a speech bubble with the word \"sina\". Above the woman, the word \"AUSTRALIAN\" is written",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f7.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a drawing of two figures. One figure is seated in a wheelchair, while the other figure is standing. Both figures are wearing similar outfits consisting of purple tops, blue shirts underneath, brown pants, and blue shoes. The standing figure has a smiling face. The wheelchair has black wheels and a black frame.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a person standing in the center, holding their head, surrounded by dark, shadowy figures with menacing expressions. Chaotic, scribbled lines fill the background, enhancing the sense of turmoil and confusion. The shadowy figures seem to be reaching towards the person, adding to the feeling of being overwhelmed",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three areas: five figures behind bars on the left, three in the middle (one with a skipping rope), and one figure by a tree and flower on the right. Text reads \"What a difference?\" with numbers 10, 8, 12. Flowers, a ball, and a grid-like pattern scattered around.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f11.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a drawing with a person standing in front of trees, a beach, and waves, possibly representing a tropical or coastal environment. The drawing also includes various objects like cars, houses, and palm trees, with a vibrant and lively atmosphere",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f12.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child's drawing depicting a scene in a hospital or sickroom. A person lies in bed with a thermometer in their mouth, indicating illness, while a smiling nurse in a white dress with a red cross offers help. A window in the background shows a sunny day and a swing set outside",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f13.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three figures: one in yellow, one in brown with a green face, and one in blue with black details. The brown figure is separated by a clear space. Minimalistic environment with gray scribble",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child's drawing. It features three stick-figure people. Two figures on the left hold hands; one in a red dress, the other in a multi-colored dress, both with flowers in their hair. On the right, another figure in a blue shirt and pants, with pigtails and red bows, stands behind vertical lines, possibly a fence. Text includes \"9 years old\" and \"P\" and \"q\" written multiple times in green, with a sun in the top left and flowers at the bottom",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f15.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two stick figures: one adult pointing at a child with raised arms. Both have sad or angry expressions. Blue shadow beneath them, on a plain white background",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f17.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a head with red hair, surrounded by various colored crayons on white paper.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f18.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "he image shows a child's drawing,On the left, random scribbles.Center, a figure resembling a person with a round head, black body, thin legs, and possibly hair or a hat.Right, a large circle with two lines extending downward, possibly another figure",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f19.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a person sleeping in a bed with a quilt. The bed has a headboard with patterns, and a small light fixture above. To the left, there is a ghost-like figure holding a lantern, and the background has dark tones, giving an eerie atmosphere",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f21.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three figures in red lines: two standing under a green shape, possibly a door, and one floating to the left. Circular heads with facial features and stick bodies.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f22.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child's drawing with two human-like figures. The figure on the left has a round head with a smile and a black body with a blue collar, while the figure on the right has a round head with long scribbled hair. Both have stick-like arms and legs",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f23.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three stick figures: two sitting at a table with orange hair, each holding an orange object, possibly food, and one standing to the right with red hair, dressed in black",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f25.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A simple drawing of a round-headed figure with large eyes and a smile, black scribbles representing hair, and lines extending from the head as arms and legs. The background is plain white",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f26.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a black and white drawing depicting four stick figures: the first on the left has short hair and outstretched arms, the second has long hair with slightly bent arms, the third is upside down, and the fourth on the right is holding the third figure upside down. A sun is in the top left corner.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f28.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows several stick figures in red, black, green, and yellow, each with circular heads and line bodies, some with additional lines for arms or other features. The figures are scattered with no apparent organization, giving a playful, childlike vibe",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f29.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child\u2019s drawing on a pink background, featuring two figures: a smaller one with long brown hair and a smiling face, and a larger one with long hair and a white dress with red marks around the eyes and mouth. Between them is a red heart symbol.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f30.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows two stick figures. The larger one on the left has red lines above its head, indicating anger or shouting, with an open mouth and arms extended towards the smaller stick figure on the right. The smaller figure appears to be crying, with blue tears falling from its eyes and a sad expression",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f31.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child\u2019s drawing. It shows two human-like figures with stick limbs and round heads. One figure on the left has a pink head and stands on a brown structure with green tops, possibly representing trees or plants. The figure on the right has a green head and stands on a similar brown structure. Both figures have brown bodies, and the figure on the right has blue legs and feet. The background includes brown and green elements",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f32.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a person standing next to a container with worms inside and outside, some attempting to get in. The person has a speech bubble saying \"NO\", indicating refusal. Simple stick-figure and basic shape style",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f33.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows two human-like figures. One is standing with a sad or concerned expression, wearing a dress and head covering. The other figure is lying down with closed eyes, with red marks around, possibly indicating blood or injury. The top left corner includes a small window or scene with a table and objects on it",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f34.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "On the left, a stick figure with outstretched arms. In the center, a vertical line with an oval at the top. On the right, a triangular shape with three small circles inside it.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f36.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two stick figures with round heads. Left figure: lines on the head (hair), two eyes, small mouth. Right figure: black scribbles fill the body, straight-line legs",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f37.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child\u2019s drawing: an orange-haired figure on the left with a sad face holding a black object. A table in the center with a red and black pattern. Two figures with dark faces and yellow hats looking through a window in the background. Rough, sketchy crayon style",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f38.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image appears to be a child\u2019s drawing. There\u2019s a person in a red top and blue pants on the left, another smaller figure with a black head and red shirt next to them, an orange and yellow object resembling a vehicle in the center, and a third figure with a black head, wearing headphones and holding a red object on the right",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f39.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child's drawing of three people: one lying in bed with a blue blanket, two others standing nearby, and a yellow-orange object on the left side. The background is light-colored",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f40.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "This image features Left: Two human figures holding hands. The figure on the left has short hair, while the figure on the right has longer hair. Both are smiling.Right: A rectangular object with vertical lines, resembling a crib or a cage, containing two smaller figures lying down",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f41.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Three stick figures, one holding a pompom, one holding a ball, and one holding a pompom, stand in front of a fire. The fire is labeled \"Campfire\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f42.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two stick figures stand side by side. One is crying and labeled \"when I'm on steroids,\" the other is smiling and labeled \"when I'm not on steroids.\" A large cloud labeled \"secrets\" is in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f44.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A young girl looks on in fear as a woman with red eyes and bloodshot face stands before her.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f45.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A large tree has fallen onto a car, blocking the road. Yellow caution tape surrounds the area.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f49.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The drawing depicts a child sitting in water with a distressed expression, holding a cross in one hand and a newspaper in the other. In the background, there are broken structures, including a fallen tree and damaged utility poles",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f52.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two stick figures, one black and one yellow, hold hands. The words \"Best Friends\" and \"Me\" are written nearby.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_f53.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A girl wearing pink skirt is walking down a grass land filled with flowers all over. She has blonde hair and blue eyes and is smiling. The sky is abstractly painted.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A family of three holding hands who seems to be father mother and child. They are standing on a grassland filled with flowers. There is a beautiful rainbow in the background. They seem to be happy.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A girl wearing pink floral frock standing on a grassland filled with flowers. The sun is shining brightly in the sky with clouds. The girl appears to be smiling.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A family of four with a dog and cat. They appear to be in a celebration with decorations. There is candy lying around. Balloon and flowers are also there. There is a vehicle standing infront of the family. There is a  sun at tje corner of the image.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A boy is holding a bocquet of flowers in his hands and is weariing a cyan tshirt and blueshorts. He is standing near a woman wearing pink top and pink skirt and is infront of the boy. Both of them appear to be smiling.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A girl wearing pink frock and wearing a tiara is holding a heart shaped magic wand. she is standing on  grass field filled with flowers. The sun is shining brightly. The girl and sun both appear to be smiling.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h17.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two human figures, both females. One appears to be small girl wearing a pink frock and blonde hair and the other appears to be a lady a gown with brown hair.They are both standing on a grass land. The sun is shining brightly on a blue sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h21.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two kids one girl and boy are enjoying with a kite on a grassland. the girl is holding the kite while the boy is playing with her. The girl is wearing pink gown and the boy is wearing blue tops. The sun is hsining brightly in the sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h25.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two human figures, one male and another female, are holding hands on a garssland with a flower on it. The girl is wearing red gown with blonde hair anb the guy is wearing a grey tshirt with blue pant and has brown hair. They both are smiling. There is a heartine like figure in the corner of the image and the sky is blue.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h29.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are two humans, one a small girl and another a boy and both of them are smiling. They both are standinbg on a grass land. The sun is shining brightly  with clouds in the sky. There appears to be a rainbow above the cloud.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h34.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Five kids, two girls and three boys appear to be standing on something which appears to be alarge brown book. All five of them are holding hands and appears to be smiling. There are clouds of multiple colours floating in the sky. The sun is  shining brightly and smiling too in the sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_h40.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a simple, child-like drawing of two stick-figure characters. One figure appears happy, holding an object like a stick or a wand, while the other figure has an angry or sad expression,",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_images (1).jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are two stick humans, One appears taller and is a man ,while the other is a small boy. The man appears to be angry and pointing out at the small boy. the boy appears to be crying and is very sad. The man is wearing grey top while the boy is wearing dark blue tops.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_klk.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl wearing a purple dress and is standing in a grass land filled with garbage. There is s a single tree in the in image. The girl appears to be sad . The sun is shining in the sky and is also sad in the image.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_s5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl wearing a pink dress and has brown hair. She is holding paper light blue in colour and there is a huge \"F\" in the paper. The girl appears to be very sad.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_s8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are two people in the image a male and a female. Both the people appears very sad. There is grave near them with a huge cross on top of it. The grass is dark sap green in colour. There seems to be crows flying in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_s11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a stick figure which appears to be a boy in the image. He seems very sad and is crying in the image.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_s28.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a small girl in the image who appears very sad and is crying.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_s37.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a small boy sitting in a grassland with a flower near by. He has a stick in his hands drawing something on the sand. He seems very sad and appears to be crying. He has a brown hair and is wearing red top with blue pants.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/new_s38.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "there is a stick figure in the image which has neutral expression on its face. In this image it appears to lying down on the floor.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are three women standing on a rock with large blacvk eyes. Theyu seem to be mermaid with fish tails. One of the mermaid is wearing a crown. They appear to be in the middle of the sea. The sun is shining brightly.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s27.jpg."
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl in the image with blonde hair and is wearing tshirt sating \" I Brookn\" ith a broken heart symbol. The girl appears to be very sad with huge teary eyes and is i on the verge of breaking down. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s30.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a  face of a kid who appears to be very sad and is crying. He is in a forest with dry trees with some trees having a heartine. There is a dead bird infront of the boy which seems to be the reason for his sadness.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s34.webp"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a boy who is sad and crting. There are two buildings in the background which appears to be on fire. There is a missile flying in the sky attacking buildings.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s36.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There are two human like figures in the image. They both appear to be and they are lifeless reactions on their face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s37.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a boy in the image who seems to be very sad and shocked at the scene unfolding before his eyes. A building is on fire and smoke is emitting from the building at a large volume. There is a small basket ball playground near the building.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s48.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl in the image with blue eyes and brown hair. There seems to be a neutral expression on her face with red lips.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s53.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a small boy who appears to be sad in the image. He is holding a stick in his hand pointed towrds the ground.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s55.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a small boy who is stting with his legs tucked in hands. He has a concerned and anxious and sad look on his face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s57.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl in the image which appears to be stick figure. She is very sad in the image.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s58.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a face of a man in the image with neutral expression on his face. The man has a long face and has a beard on his face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s62.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a face of a man in the image with moustache and a half balding head. He is balded at the centre of his head. He has a neytral expression on his face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s65.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a man and a woman in the image. The man is wearing a blue tops with brown hair and the woman is wearing a pink top with blond hair. They both have sad and angry expressions mixed on their faces. There many broken hearts symbol surrounding them both.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s76.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a girl in the image wearing a green frock. She appears to be very sad and concerned about something. She is looking down at the ground.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s84.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is round face like structure in the image with a sad reaction on its face. There are many blue brush strokes surrounding the face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s94.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is round face like structure with a flower on it head. The face seems to havce a sad reaction on its face. There is a rain cloud on top of the head with rain pouring on top of the head.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s104.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a stick figure in the image with a sad reaction on its face. The face is purple ion colour. There seemes to be a half completed rainbow in the background with no colours in them.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s105.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "There is a woman's face in the image who seems to be sad and crying. She has black hair. There is a sentence \"I'm Very Sad\" in the image too.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/Person/s113.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A red, horned figure with flames surrounding it. Inside the figure's mouth, there are multiple people, some wearing firefighter uniforms.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a47.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A demonic figure with horns and flames. Inside the figure's mouth, there are smaller, demonic figures.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a48.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A chaotic scene with demonic figures and flames. A large, horned figure stands at the center, surrounded by smaller figures and a fiery portal.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a49.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "Two drawings: one of a blue face with a speech bubble and the other of a red face with a speech bubble.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a50.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A demonic figure with horns, surrounded by flames. The figure has a smiling face.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a52.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A green cat with a large, toothy grin. The cat is surrounded by geometric shapes and lines.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a91.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A grotesque, feline creature with sharp claws. The creature is set against a red background with swirling patterns and foliage.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a94.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "An abstract painting of a face with exaggerated features. The colors are primarily red and pink with green accents.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a101.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A portrait of a man with a distorted face, characterized by exaggerated features. The colors are vibrant and contrasting.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/a102.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a person with a round face, large eyes, and a wide, open mouth.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/f4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a face with exaggerated features, including large eyes, a wide open mouth with sharp teeth, and a furrowed brow.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/f31.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A detailed pencil drawing of a doll with a stitched-up mouth, dark circles for eyes, and long, unkempt hair.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/f39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a red, winged creature with sharp teeth and claws.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/f78.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A painting depicting a chaotic scene with a large, dark figure and a crowd of smaller figures. The figure appears to be holding a weapon.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/f111.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "An abstract painting with dominant red and black hues. The composition features large, amorphous shapes and textures, creating a sense of depth and energy.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/f112.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a devil figure with red horns, a pitchfork, and flames surrounding it.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "An abstract, expressive painting of a monstrous creature with glowing red eyes, a wide, open mouth, and sharp teeth. The colors are primarily red, black, and yellow, creating a chaotic and intense atmosphere.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a12.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A child's drawing of a monstrous creature with a large head, sharp teeth, and glowing green eyes. The creature has wings and stands on two legs. There are two flowers drawn near the bottom of the page.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a15.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A chaotic and colorful painting depicting a large, monstrous creature with sharp teeth and claws. The creature towers over a group of smaller figures, some of whom appear to be fleeing or struggling.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a18jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image is a child's drawing of a group holding hands, with dark figures, including a horned monster with red eyes. Two children stand in the center, surrounded by eerie shadowy figures, giving the scene a haunting atmosphere.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a19.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "An abstract and expressive painting of a face with exaggerated features, including a wide, open mouth with sharp teeth. The colors are vibrant and chaotic, with a variety of lines, shapes, and textures creating a sense of energy and intensity. There appear to be smaller figures and symbols within the larger composition.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a21.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "An abstract and expressive painting dominated by bold red and black strokes. The composition features a central figure with distorted features, including large eyes and a gaping mouth. There are smaller, intertwined shapes and lines throughout the piece, creating a sense of chaos and intensity.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a22.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A drawing of a red, monstrous creature with sharp teeth, horns, and glowing green eyes. The creature's expression is fierce and aggressive.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_a28.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A drawing of a girl hiding under her blankets in bed, looking scared. A small, monstrous creature with red eyes is peering over the edge of the bed.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_f20.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A disturbing black and white drawing of a woman with exaggerated facial features, including large, empty eyes and a wide, twisted smile. The overall impression is unsettling and potentially frightening.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_f24.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "A drawing depicting a large, shadowy figure looming over a small, cowering figure. The larger figure appears to be casting a long shadow, creating a sense of intimidation or menace.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/monster/new_f58.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The Image contains two buildings which appear to be on fire and smoke is emitting, where two people appear to be escaping from them by jumping out the windows. One person appears to have horns on their head. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a house with a small family. One character appears to be lying on the floor. The sun is red in colour and there is presence of multiple colours scribbled all over the image. It gives an eerie vibe",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a beautiful summer  morning with bright sky and yellow sun. It contains butterflies and  yellow bus which can be a school bus going away or moving towards the house. There is a huge tree with red leaves present in the middle.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a forest fire scenario where the hills and the forest surrounding is on fire. The fire fighters are trying to extinguish the fire from both land and from the air. There are planes which are pouring water from the sky on the forest.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a45.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image show two houses being destroyed by a military tanker. It also shows an army man near the house. It may depict a warzone.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a46.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image shows a house with a house red in colour with a lot of stick figures standing around it. It has a slide and park like setting around it It also has a rainbow like structure in the image, although not complete fully. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a51.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains two buildings on fire with few people running away from the buildings. There is an aeroplane which is launching missiles at the buildings and the people. The buildings appear to be caught on fire due to the missiles.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a64.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a person and a house. The person is holding a fire torch in his hands and a the house appears to be on fire. The person looks angry and appears to have lit the house on fire. There is also a yellow sun in the sky",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/a114,jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house, a tree and a fire engine and two people. A cat is on top of the tree and a girl who is wearing  a red hat is trying to rescue the cat using the ladder in the fire engine. The sky is blue and sun is shining bright.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/f73.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "the image contains a family of three a father, mother and a daughter holding hands together on a sunny day with bright blue sky. They are standing near their house with clouds in the sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a beautiful summer day. The sun is smiling and a rainbow is visible near it. The house has a chimney and a tree is near the house with a lots of red fruits. There are huge hills in the background.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a summer day with sun appearing to be resting while shining. There are clouds and a butterfly in the picture along with a house and some trees. There are some flower plants near the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a summer day with the sun shining brightly over a rainbow. It has a house with a tree near by it and some flowers too. Birds are flying in the background along with a bee and a butterfly.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a family of four holding hands with a father, mother, a brother and a sister. The sun is shining brightly and they are standing near a house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a tall house with multiple windows. The image contains a lady near the house who is standing a car . Also there is a car near the house standing near a traffic signal.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains three houses in the middle of a green land covered with trees. The sky is blue with the sun shining brightly. There is a small water stream in front of the houses where there is  a cat.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h18.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a beautiful summer day with a house covered by various trees and there are clouds in the sky. There is a family of four infront of the house holding hands along with a dog. There is a car near the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h20.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "the image contains a house with a fence. The sun is shining brightly. There is a small pond in the house where there is a duck swimming. There is also a small windmill like structure near the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h23.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains four houses with two trees. There is a flower shop near the tree and house. There are two people holding hands. The sun is shining and there is a car on the street.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h28.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "the image contains a house near the base of a hill. There is a pond infront of the house where many small ships are sailing and a few ducks are swimming. There is a tree near the house and there a re few benches too.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h34.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house at the centre with a tree nearby. The sky is blue in colour with the sun shining brightly. There are two kids infront of the house . There is a tap filling a bucket with water in front of the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h44.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image conatins a house at the centre with a tree near by. There is a small kennel nearby the house with a bush. There is a sun shining brightly in the sky with clouds.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h47.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house at the centre with many butterflies surrounding the house. There a re many flowers surrounding the  house. There is a sun in the sky and clouds floating in the sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h52.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house with many trees and bushes surrounding it. The sun is shining in the sky with clouds. There is a lady standing near the house with flowers and basket and a bird is flying above the lady.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h57.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains two houses with few flowers in the ground. There are many butterflies flying and the sun is shining brightly with clouds in the sky. There is a tree like structure near the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h59.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house with a tree nearby. The sun is shining brightly in the sky. There are few flowers in the ground around the house. There is a cat on top of the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h65.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house at the centre with huge hills in the background. The sun is shining brightly in the sky with clouds. There is a tree nearby with fruits. There is a fence infront of the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h66.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a beautiful summer day with a house covered by various trees and there are clouds in the sky. There is a family of four infront of the house holding hands along with a dog. There is a car near the house.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h71.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house with a few flowers surrounding it. The sun is shining brightly in the sky.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h75.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house with a tree nearby. There is a butterfly flying near the house. The sun is shining brightly in the sky with clouds.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/h82.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house at the corner with a lady like figure with wings at the centre. There is a tree at the other end and a small hill like structure near the tree. The sun is shining brightly in the blue sky with clouds.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/new_a37.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "the image contains a house with a car near it. There are two trees with no trees which have fallen down on the car near it.It looks like the wind is blowing strongly.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/new_f43.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image contains a house at the centre with grass surrounding it. There are clods abovethe sky and it appears to be rainning.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/new_f46.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "The image depicts a storm where multiple trees have broken down and has fallen on top of houses, men and animals alike. This appears to be a heavy storm with many storm clouds and lightning.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/new_f48.jpeg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Describe the image.",
+        "role": "user"
+      },
+      {
+        "content": "the image depicts a storm  where trees are bending due to the heavy storm there aree mulyiple house sin the image too. The rain is pouring heavily.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dlpro/house/new_f50.jpeg"
+    ]
+  }
+]

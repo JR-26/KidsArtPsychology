@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vision-Language Model Demo</title>
+</head>
+<body>
+    <h1>Upload an Image</h1>
+    <form id="upload-form" method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="results" style="margin-top: 20px;">
+        <h2>Results:</h2>
+        <p id="description"></p>
+        <p id="psychological-inference"></p>
+    </div>
+    <script>
+        const form = document.getElementById("upload-form");
+        form.addEventListener("submit", async (event) => {
+            event.preventDefault();
+            const formData = new FormData(form);
+            const response = await fetch("/process", {
+                method: "POST",
+                body: formData,
+            });
+            const data = await response.json();
+            document.getElementById("description").innerText = "Description: " + data.description;
+            document.getElementById("psychological-inference").innerText = "Psychological Inference: " + data.psychological_inference;
+        });
+    </script>
+</body>
+</html>
